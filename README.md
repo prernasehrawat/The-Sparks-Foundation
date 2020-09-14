@@ -1,2 +1,2 @@
-# Internship-Task-2-
-The task is related to Data science and ML for my internship at The sparks Foundation. It was about exploring the supervised Machine Learning.
+# Task-3---K-Means-clustering
+Used Unsupervised Machine Learning i.e. K-Means Clustering. For this task 'Iris' dataset was provided and had to find the optimum number of cluster and represent it visually.
